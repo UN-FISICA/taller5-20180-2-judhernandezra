@@ -1,7 +1,7 @@
 from imageio import imread
 import matplotlib.pyplot as plt
 from scipy import misc
-from cycalcopt_mod import *
+from calc_mod import *
 import numpy as np
 import argparse
 
